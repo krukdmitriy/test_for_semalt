@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/mvctest.iml
+.idea/vcs.xml
+.idea/yii2settings.xml
+
